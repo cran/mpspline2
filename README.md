@@ -1,9 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-[![R-CMD-check](https://github.com/obrl-soil/mpspline2/workflows/R-CMD-check/badge.svg)](https://github.com/obrl-soil/mpspline2/actions)
+[![R-CMD-check](https://github.com/obrl-soil/mpspline2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/obrl-soil/mpspline2/actions/workflows/R-CMD-check.yaml)
 [![Coverage
-status](https://codecov.io/gh/obrl-soil/mpspline2/branch/master/graph/badge.svg)](https://codecov.io/github/obrl-soil/mpspline2?branch=master)
+status](https://codecov.io/github/obrl-soil/mpspline2/branch/master/graph/badge.svg)](https://app.codecov.io/github/obrl-soil/mpspline2?branch=master)
 [![CRAN](https://www.r-pkg.org/badges/version/mpspline2)](https://cran.r-project.org/package=mpspline2)
 [![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/mpspline2)](https://www.r-pkg.org/pkg/mpspline2)
 
@@ -26,7 +26,7 @@ install.packages('mpspline2')
 Install from github with
 
 ``` r
-devtools::install_github("obrl-soil/mpspline2")
+remotes::install_github("obrl-soil/mpspline2")
 ```
 
 ## Example
@@ -59,7 +59,7 @@ spl_dat$est_dcm
 If you get stuck using this package, please post a question on [Stack
 Overflow](https://stackoverflow.com/). This means that others can
 benefit from the discussion, and more people are available to help you.
-You’re welcome to ping me in a comment or on twitter (@obrl_soil) to get
-my attention.
+You’re welcome to ping me on Bluesky (@obrlsoil) or Mastodon
+(@obrl_soil) to get my attention.
 
 ------------------------------------------------------------------------

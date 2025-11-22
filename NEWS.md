@@ -1,4 +1,16 @@
-# v. 0.1.6
+# v. 0.1.9
+
+  * Add ability to spline multiple variables at once, resolving #10 (thanks to @brownag for this update)
+
+# v. 0.1.8
+
+  * bugfix for column labelling
+
+# v. 0.1.7
+
+  * `mpspline_tidy()` bugfix - 1 cm output depth intervals corrected to start from 0 and end at max prediction depth specified.
+
+# v. 0.1.6 [CRAN]
 
   * `mpspline_datchk()` bugfix per PR 2
 
